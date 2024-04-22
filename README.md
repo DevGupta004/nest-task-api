@@ -58,6 +58,19 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
+## Production
+
+```bash
+url : https://nest-task-api.vercel.app/tasks/6606627cf6a8c200085d8d35
+body : 
+{
+  "userId": "6606627cf6a8c200085d8d35",
+  "taskName": "post task",
+  "description": "post task as per user id",
+  "completed": false
+}
+```
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
